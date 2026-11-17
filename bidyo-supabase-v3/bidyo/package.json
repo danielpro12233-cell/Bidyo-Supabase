@@ -1,9 +1,0 @@
-{
-  "name": "bidyo",
-  "version": "3.0.0",
-  "description": "Bidyo - multi-user video sharing on Supabase. Everyone watches free; a simple username + password account (no email codes) only to upload.",
-  "main": "server.js",
-  "engines": { "node": ">=18" },
-  "scripts": { "start": "node server.js", "dev": "node server.js" },
-  "license": "MIT"
-}
